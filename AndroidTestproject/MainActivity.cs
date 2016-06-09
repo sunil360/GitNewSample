@@ -8,6 +8,7 @@ namespace AndroidTestproject
 	public class MainActivity : Activity
 	{
 		int count = 1;
+		int i = 12;// Added new variable in MainActivity
 
 		protected override void OnCreate(Bundle savedInstanceState)
 		{
