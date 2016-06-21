@@ -10,6 +10,8 @@ namespace AndroidTestproject
 		int count = 1;
 		int i = 12;// Added new variable in MainActivity
 
+		int ij = 12;// Added new variable in MainActivity
+
 		protected override void OnCreate(Bundle savedInstanceState)
 		{
 			base.OnCreate(savedInstanceState);
